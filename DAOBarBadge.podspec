@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DAOBarBadge'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A simple badge for shopping cart bar item or some what.'
   s.swift_versions   = '5.0' 
 
@@ -18,9 +18,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = '//TODO: description'
+  s.description      = 'Simply add DAOBarBadge in your navigation bar by IB or code view.'
 
-  s.homepage         = 'https://github.com/DAO/DAOBarBadge'
+  s.homepage         = 'https://github.com/daoseng33/DAOBarBadge'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DAO' => 'daoseng33@gmail.com' }
