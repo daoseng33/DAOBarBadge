@@ -1,0 +1,22 @@
+{
+  "name": "DAOBarBadge",
+  "version": "0.1.0",
+  "summary": "A short description of DAOBarBadge.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DAO/DAOBarBadge",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DAO": "daoseng33@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/DAO/DAOBarBadge.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DAOBarBadge/Classes/**/*"
+}
